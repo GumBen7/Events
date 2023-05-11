@@ -1,0 +1,5 @@
+namespace Events {
+    class Robot {
+        
+    }
+}
