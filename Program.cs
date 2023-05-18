@@ -1,7 +1,8 @@
 ﻿namespace Events {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hello, World!");
+            var robot = new Robot();
+            Console.ReadLine();
         }
     }
 }
